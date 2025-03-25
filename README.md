@@ -13,5 +13,5 @@ Cada estudiante deberá modificar este archivo **README.md**, colocando un emoji
 
 **TIPOS DE BASES DE DATOS**
 
-  `- Elemento 1`
- `- Elemento 2`
+
+`![Texto alternativo]([https://url-de-la-imagen.com](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.guioteca.com%2Ffotografia%2F10-locas-imagenes-una-insolita-seleccion-de-fotos%2F&psig=AOvVaw2EuhzDp_qyOjE1nm-weo59&ust=1743024377552000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKD-1YCWpowDFQAAAAAdAAAAABAE))`
