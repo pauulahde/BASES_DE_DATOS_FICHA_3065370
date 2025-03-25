@@ -10,24 +10,7 @@ Cada estudiante deberá modificar este archivo **README.md**, colocando un emoji
 3. 🏀 **Kevin Perez**
 4. 🎨 **Sebastian Ardila**
 
----
 
-## 🛠 Ayuda para Markdown
-
-Aquí algunas referencias rápidas para formatear este archivo correctamente:
-
-- **Negrita:** `**Texto en negrita**` → **Texto en negrita**
-- *Cursiva:* `*Texto en cursiva*` → *Texto en cursiva*
-- `Código en línea:` `` `código` `` → `código`
-- Listas:
-  - `- Elemento 1`
-  - `- Elemento 2`
-- Links: `[Texto del enlace](https://ejemplo.com)`
-- Imágenes: `![Texto alternativo](https://url-de-la-imagen.com)`
-
-Para más información, consulta la guía oficial de Markdown: [Markdown Guide](https://www.markdownguide.org/)
-
-🚀 ¡Feliz edición! 🎉
-
-
+**TIPOS DE BASES DE DATOS**
+`código`
 
