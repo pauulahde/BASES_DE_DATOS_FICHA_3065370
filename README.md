@@ -13,4 +13,4 @@ Cada estudiante deberá modificar este archivo **README.md**, colocando un emoji
 
 **TIPOS DE BASES DE DATOS**
 
-![The San Juan Mountains are beautiful!](/assets/images/san-juan-mountains.jpg "San Juan Mountains")
+![The San Juan Mountains are beautiful!](https://media-cdn.tripadvisor.com/media/photo-s/0e/93/af/2a/fotos-locas-con-efectos.jpg")
