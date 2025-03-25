@@ -12,5 +12,6 @@ Cada estudiante deberá modificar este archivo **README.md**, colocando un emoji
 
 
 **TIPOS DE BASES DE DATOS**
-`código`
 
+  `- Elemento 1`
+ `- Elemento 2`
