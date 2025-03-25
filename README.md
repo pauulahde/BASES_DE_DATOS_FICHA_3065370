@@ -67,7 +67,7 @@ La información se almacena en varios servidores ubicados en diferentes lugares.
 Ejemplo: Un sistema de comercio electrónico que maneja inventarios en distintos almacenes alrededor del mundo.
 
 
-
+![The San Juan Mountains are beautiful!](https://www.astera.com/wp-content/uploads/2019/05/DBI-1.jpg)
 
 
 **Clasificación de bases de datos**
@@ -104,4 +104,4 @@ Centralizadas → Toda la información en un solo lugar (Ejemplo: una base de da
 
 Descentralizadas → Información dividida en diferentes ubicaciones para mayor disponibilidad y seguridad.
 
-![The San Juan Mountains are beautiful!](https://www.astera.com/wp-content/uploads/2019/05/DBI-1.jpg)
+![The San Juan Mountains are beautiful!](https://dbaexperts.tech/wp/wp-content/uploads/2022/02/NoSQL4.png)
