@@ -1,5 +1,4 @@
-<!-- styles.css -->
-<style>
+
 body {
     font-family: Arial, sans-serif;
     background-color: #f4f4f4;
@@ -42,4 +41,4 @@ nav ul li a:hover {
 .back:hover {
     text-decoration: underline;
 }
-</style>
+
