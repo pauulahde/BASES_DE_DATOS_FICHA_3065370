@@ -98,6 +98,7 @@ Analíticas → Para análisis de grandes volúmenes de datos, como los almacene
 
 
 
+
 4. Según el tipo de acceso
 
 Centralizadas → Toda la información en un solo lugar (Ejemplo: una base de datos de empleados en una empresa).
